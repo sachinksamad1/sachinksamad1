@@ -5,6 +5,7 @@ I'm a passionate and results-driven Full-Stack Developer with a strong backgroun
 * Frameworks & Libraries
 
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge)](https://vuejs.org/)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
@@ -22,6 +23,16 @@ I'm a passionate and results-driven Full-Stack Developer with a strong backgroun
   ![Angular Material](https://img.shields.io/badge/Angular_Material-A8A2FF?style=for-the-badge&logo=angularjs&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+* Design Tools
+  
+  [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](https://www.figma.com/)
+  [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?logo=adobexd&logoColor=white&style=for-the-badge)](https://www.adobe.com/products/xd.html)
+
+* Mobile Development
+  
+  [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)](https://flutter.dev/)
+   
 
 ## What I Do 🚀
 Full-Stack Development: I have extensive experience with the MEAN Stack (MongoDB, Express.js, Angular, Node.js) and Django, building comprehensive and efficient applications.
