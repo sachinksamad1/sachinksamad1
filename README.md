@@ -1,6 +1,18 @@
 # 👋 Hi there! 
 I'm a passionate and results-driven Full-Stack Developer with a strong background in creating robust and scalable web and mobile applications. I specialise in a variety of technologies, allowing me to handle projects from the backend architecture to intuitive frontend experiences.
 
+
+## 🔥 Contribution Streak
+![Streak](https://streak-stats.demolab.com?user=sachinksamad1&theme=tokyonight&hide_border=true)
+
+
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinksamad1&theme=react-dark)
+
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/sachinksamad1/sachinksamad1/blob/output/github-contribution-grid-snake.svg)
+
 ## Skills 💻
 * Frameworks & Libraries
 
