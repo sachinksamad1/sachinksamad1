@@ -30,12 +30,46 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate and results-driven **Full-Stack Developer** with a strong background in creating robust and scalable web and mobile applications. I specialize in a variety of technologies, allowing me to handle projects from backend architecture to intuitive frontend experiences.
+I am a **Full-Stack Developer & Solutions Architect** specialising in building high-scale applications from the ground up.
 
-- 🚀 **Full-Stack Development:** Extensive experience with the **MEAN Stack** (MongoDB, Express.js, Angular, Node.js) and **Django**, building comprehensive and efficient applications.
-- 📱 **Cross-Platform Mobile Development:** I use **Flutter** to build beautiful, high-performance applications for both iOS and Android from a single codebase.
-- 🎨 **UI/UX Design:** With a keen eye for design, I leverage **Figma** to create compelling and user-centric interfaces that drive engagement and meet business objectives.
-- 💼 **Freelance:** I am actively seeking new freelance opportunities! Particularly interested in developing complex ERP systems, feature-rich e-commerce platforms, and innovative e-service solutions.
+### 🏗️ What I Do
+* **Web:** Master of the **MEAN Stack**. I specialise in niche **Angular** implementations.
+* **Mobile:** Building beautiful, single-codebase apps with **Flutter**.
+* **Design:** User-centric UI/UX design via **Figma**.
+
+### 🐧 Systems & Terminal Enthusiast
+Arch Linux | Neovim | TUI-First Workflow
+
+I am a firm believer in the KISS principle and terminal-centric productivity. With over a decade in the Arch ecosystem, I don't just use tools—I architect environments for peak engineering performance.
+
+- OS: Arch Linux — built from the ground up for minimalism and total system transparency.
+
+- Editor: Neovim fanatic — my IDE is a highly customised, Lua-powered environment optimised for full-stack speed.
+
+- Workflow: TUI-driven — I prioritise terminal user interfaces for everything from version control to system monitoring, ensuring a distraction-free, low-latency workspace.
+
+- Automation: If I have to do it twice, I script it. I leverage the shell to automate complex workflows, from local dev environments to smart-home integration.
+
+I treat my dev environment like my code: auditable, lightweight, and blazing fast.
+
+### 🛠 Developer Experience (DX) & Tooling
+I don't just build applications; I build the tools that make building them better. I’m obsessed with Developer Experience (DX)—optimising workflows to eliminate friction and boilerplate.
+
+Check out my repositories for:
+
+- Custom Tooling: Utility scripts and CLI tools designed to speed up full-stack development.
+
+- Architectural Boilerplates: Highly opinionated, production-ready starters for Angular and NestJS.
+
+- Automation Engines: TUI-based tools and shell integrations that bridge the gap between complex system tasks and the developer's terminal.
+
+Explore my Repos: Look for my custom scripts and DX-focused tools for your project needs. 
+
+### 💼 Freelance Interests
+I am currently seeking opportunities to build:
+- 📊 **Enterprise ERP Systems**
+- 🛒 **Feature-rich User Content-Based Platforms**
+- ⚡ **Innovative E-service Solutions**
 
 <hr />
 
@@ -78,8 +112,7 @@ I'm a passionate and results-driven **Full-Stack Developer** with a strong backg
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinksamad1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinksamad1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-api-eight.vercel.app/api?username=sachinksamad1" alt="GitHub Stats" />
 </div>
 <br/>
 <div align="center">
