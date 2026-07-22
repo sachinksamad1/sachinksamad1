@@ -112,7 +112,7 @@ I am currently seeking opportunities to build:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-api-eight.vercel.app/api?username=beyondSachin" alt="GitHub Stats" />
+  <img src="https://github-stats-api-eight.vercel.app/api?username=cozyRunner" alt="GitHub Stats" />
 </div>
 <br/>
 <div align="center">
@@ -124,7 +124,7 @@ I am currently seeking opportunities to build:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beyondSachin&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cozyRunner&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 <hr />
